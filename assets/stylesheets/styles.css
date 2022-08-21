@@ -13,6 +13,12 @@ html {
 
 /* NAVBAR  */
 
+.navbar {
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
 .navbar-brand {
     font-family: 'Lobster', cursive;
     font-size: 2rem;
